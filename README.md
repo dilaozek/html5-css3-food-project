@@ -20,7 +20,10 @@ Proje; kullanıcı deneyimini artırmak için mobil uyumlu tasarım, interaktif 
 - Font Awesome
 
 ## 📁 Proje Yapısı
-'''/yemek_website
+## 📁 Proje Yapısı
+
+```txt
+yemek_website/
 ├── index.html
 ├── about.html
 ├── menu.html
@@ -29,10 +32,11 @@ Proje; kullanıcı deneyimini artırmak için mobil uyumlu tasarım, interaktif 
 ├── contact.html
 ├── blogs.html
 ├── styles/
-│ └── style.css
+│   └── style.css
 ├── js/
-│ └── script.js
-└── images'''
+│   └── script.js
+└── images/
+
 ## 🎥 Proje Önizleme (GIF)
 
 ![Project Preview](project.gif)
