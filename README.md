@@ -20,7 +20,6 @@ Proje; kullanıcı deneyimini artırmak için mobil uyumlu tasarım, interaktif 
 - Font Awesome
 
 ## 📁 Proje Yapısı
-## 📁 Proje Yapısı
 
 ```txt
 yemek_website/
